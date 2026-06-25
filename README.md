@@ -1,3 +1,11 @@
+## How to Run
+
+1. Make sure Python 3.8+ is installed.
+2. Run the test file:
+
+```bash
+python test_structures.py
+
 # Lab: Stacks and Queues  
 **Lab GitHub Repo**: [Stacks and Queues](https://github.com/learn-co-curriculum/stacks-and-queues-lab)
 
